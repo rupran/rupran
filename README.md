@@ -2,7 +2,7 @@
 
 👨‍💻 I'm currently working as an **Embedded Linux Software Consultant** at **[Siemens](https://github.com/siemens) Technology**.
 
-🎓 For my PhD, I researched **Linux-based systems**, particularly how to **tailor** them to their deployment scenarios. My **thesis** [*Automated Tailoring of System Software Stacks*](https://doi.org/10.15488/15610) has now been **published** in the institutional repository of **Leibniz University Hannover**.
+🎓 For my PhD, I researched **Linux-based systems**, particularly how to **tailor** them to their deployment scenarios. My **thesis** [*Automated Tailoring of System Software Stacks*](https://doi.org/10.15488/15610) has now been **published** in the institutional repository of **Leibniz Universität Hannover**.
 
 🐧 My **research tools** are published here as open source software, and working on them has led to multiple contributions to the used libraries.
 
